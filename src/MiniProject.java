@@ -32,8 +32,9 @@ public class MiniProject {
 			System.out.println("23.choose the operator for your number ");
 			System.out.println("24.know how many times does the number is repeated");
 			System.out.println("25.searching of number in the entered list ");
-			System.out.println(" ");
+			System.out.println(" added for git testing ....");
 			System.out.println("---> **please enter your choice of program.**<--");
+			
 			
 			int choice =sc.nextInt();
 			
